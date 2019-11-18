@@ -1,6 +1,4 @@
 import javax.swing.JOptionPane;
-
-
 public class calculadora {
 
     static int a=0,b=0;
