@@ -11,5 +11,4 @@ public class calculadora {
        b= Integer.parseInt(JOptionPane.showInputDialog(null,"Digite el segundo numero"));
         System.out.println("el total de la suma es:"+ (a+b));
     }
-    
 }
